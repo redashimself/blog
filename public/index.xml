@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Redas Kriksciukaitis</title>
     <link>https://redask.net/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Redas Kriksciukaitis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Nov 2022 12:28:52 +0200</lastBuildDate><atom:link href="https://redask.net/index.xml" rel="self" type="application/rss+xml" />
